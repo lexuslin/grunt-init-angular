@@ -1,0 +1,18 @@
+{
+  "name": "jQuery-scaffolding",
+  "version": "1.0.0",
+  "authors": [
+    "lll <111@163.com>"
+  ],
+  "description": "jQuery-scaffolding",
+  "main": "lib",
+  "keywords": [
+    "none"
+  ],
+  "dependencies" : {
+    "seajs": "",
+    "angular": "1.3.15"
+  },
+  "license": "MIT",
+  "private": true
+}
