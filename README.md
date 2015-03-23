@@ -1,4 +1,4 @@
-# grunt-init-angular
+# grunt-init-angular 
 
 > Create a angular plugin with [grunt-init][], including QUnit unit tests.
 
