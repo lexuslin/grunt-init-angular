@@ -1,6 +1,6 @@
 # grunt-init-angular 
 
-> Create a angular plugin with [grunt-init][], including QUnit unit tests.
+> Create an angular plugin with [grunt-init][], including QUnit unit tests.
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
